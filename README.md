@@ -1,4 +1,4 @@
-## A Capable Team For Every Meaningful Mission
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/augustpublic/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
